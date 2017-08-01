@@ -1,0 +1,8 @@
+bot: {admin_passphrase: 'dmVyeXN0cm9uZ2FkbWlucGFzc3dvcmQx
+
+    ', connection_problems: false, obfuscation_id: 'kc4KJpqv
+
+    ', paused: false, send-document-path: 'https://api.telegram.org/bot{key}/sendDocument',
+  send-message-path: 'https://api.telegram.org/bot{key}/sendMessage', tag_field: true,
+  token: !!python/unicode '347145284:AAH3wkUgHNAaogogDs7ZEhYfHl-va5M1_bg', updates-path: 'https://api.telegram.org/bot{key}/getUpdates?offset={offset}',
+  users-path: 'https://api.telegram.org/bot{key}/getChat?chat_id={user_id}'}
